@@ -18,3 +18,12 @@ int _islower(int c);
 
 /*The function checks if a letter is an alphabeic character*/
 int _isalpha(int c);
+
+/*The function prints the sign of a number*/
+int print_sign(int n);
+
+/*The function finds the absolute value of a number*/
+int _abs(int);
+
+/*The function prints the last digit of a number*/
+int print_last_digit(int);
