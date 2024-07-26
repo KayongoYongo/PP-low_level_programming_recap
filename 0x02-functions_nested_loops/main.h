@@ -27,3 +27,12 @@ int _abs(int);
 
 /*The function prints the last digit of a number*/
 int print_last_digit(int);
+
+/*Print all numbers of 24 hours*/
+void jack_bauer(void);
+
+/*Print the multiplication table of 9*/
+void times_table(void);
+
+/*A function that adds two numbers together*/
+int add(int, int);
