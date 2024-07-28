@@ -36,3 +36,6 @@ void times_table(void);
 
 /*A function that adds two numbers together*/
 int add(int, int);
+
+/*A function that prints all numbers from n to 98*/
+void print_to_98(int n);
